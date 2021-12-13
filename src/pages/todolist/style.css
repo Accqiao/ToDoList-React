@@ -1,0 +1,28 @@
+body {
+  background-color: #f5f5f5;
+}
+p {
+  height: 30px;
+  line-height: 30px;
+}
+p:hover {
+  background-color: #c1c7cb;
+}
+.box {
+  position: relative;
+  top: 40px;
+  width: 500px;
+  margin: 0 auto;
+}
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.right {
+  float: right;
+}
+.ok {
+  text-decoration: line-through;
+  background-color: #e6f0f5;
+}
+/*# sourceMappingURL=style.css.map */
